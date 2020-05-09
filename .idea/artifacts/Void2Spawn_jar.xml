@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Void2Spawn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Void2Spawn_jar</output-path>
+    <root id="archive" name="Void2Spawn.jar">
+      <element id="module-output" name="Void2Spawn" />
+    </root>
+  </artifact>
+</component>

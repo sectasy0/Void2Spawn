@@ -1,0 +1,5 @@
+name: Void2Spawn
+version: ${project.version}
+main: wr4ith5.paper.Paper
+api-version: 1.13
+authors: [wr4ith5]
